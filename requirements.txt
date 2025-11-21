@@ -1,6 +1,8 @@
-# streamlit
-# pandas
-# numpy
-# matplotlib
-# seaborn
-# scikit-learn
+# requirements.txt
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+# La librería 'pickle' y 'os' son parte de la librería estándar de Python
